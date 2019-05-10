@@ -20,9 +20,22 @@ with your existing distribution. And if you want to get rid of this
 script just start it with the deinstall option and it will remove any
 cron job(s) and the man page.
 
-Original release:
-For more information on how to get and install SSDcronTRIM see:
+Original release see:
 http://chmatse.github.io/SSDcronTRIM/
 --
 
-SSDcronTRIM Copyright 2014-2017 Matthias Egger
+SSDcronTRIM-L Copyright 2019 John Watson
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
